@@ -10,7 +10,8 @@ setuptools.setup(
     author="league3236",
     author_email="league3236@gmail.com",
     description="Check if the current date is a holiday in Korea.",
-    long_description=open('README.md').read(),
+    long_description=long_description,
+    long_description_content_type="text/markdown",
     url="https://github.com/league3236/shholiday",
     packages=setuptools.find_packages(),
     classifiers=[
@@ -18,4 +19,5 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent"
     ],
+    python_requires='>=3.6',
 )
