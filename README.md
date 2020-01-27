@@ -1,13 +1,13 @@
-# 사용방법
+# Use
 
-- pip 설치
+- pip install
 
 ```bash
 #pip install shholiday
 ```
 
 
-- 임시 사용
+- Temporary use
 
 ```python
 from shholiday import holiday2020
@@ -17,7 +17,7 @@ nowholiday = holiday2020()
 print(nowholiday.is_holiday(daytuple))
 ```
 
-- 오늘 날짜가 휴일인지 확인 예시
+- Check if today's date is a holiday
 
 ```python
 from shholiday import holiday2020
