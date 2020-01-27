@@ -1,8 +1,8 @@
 Metadata-Version: 1.1
 Name: shholiday
-Version: 0.1
+Version: 0.0.1
 Summary: Check if the current date is a holiday in Korea.
-Home-page: https://github.com/league3236/shholiday.git
+Home-page: https://github.com/league3236/shholiday
 Author: league3236
 Author-email: league3236@gmail.com
 License: MIT
