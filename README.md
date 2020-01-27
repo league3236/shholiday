@@ -3,7 +3,7 @@
 - pip install
 
 ```bash
-#pip install shholiday
+$pip install shholiday
 ```
 
 
