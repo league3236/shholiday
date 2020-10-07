@@ -30,6 +30,3 @@ daytuple = (str(now.month),str(now.day))
 nowholiday = hd.holiday2020()
 print(nowholiday.is_holiday(daytuple))
 ```
-
-
-## hi 소이님 
